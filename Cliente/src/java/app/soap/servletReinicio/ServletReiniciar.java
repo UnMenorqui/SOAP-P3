@@ -18,10 +18,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *
- * @author 1147968
- */
+
 @WebServlet(name = "ServletReiniciar", urlPatterns = {"/ServletReiniciar"})
 public class ServletReiniciar extends HttpServlet {
 

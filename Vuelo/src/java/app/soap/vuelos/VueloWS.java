@@ -14,10 +14,8 @@ import javax.jws.WebService;
 import javax.jws.WebMethod;
 import javax.jws.WebParam;
 
-/**
- *
- * @author 1147968
- */
+
+
 @WebService(serviceName = "VueloWS")
 public class VueloWS {
 
